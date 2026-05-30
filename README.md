@@ -1,4 +1,15 @@
-<img align="right" alt="App icon" src="app-icon.png" height="115px">
+openssl pkey -in private_key.pem -pubout -out public_key.pem
+openssl pkey -in private_key.pem -pubout -out public_key.pem
+
+  "latitude": 19.679616666666668,
+  "longitude": -99.08435,
+  "altitude": 2271.2,
+  "accuracy": 4.699999809265137,
+  "vertical_accuracy": 57.900001525878906,
+  "bearing": 31.459999084472656,
+  "speed": 0.302141934633255,
+  "elapsedMs": 167,
+  "provider": "gps"<img align="right" alt="App icon" src="app-icon.png" height="115px">
 
 # UsbGps4Droid - A USB GPS provider for Android 
 
